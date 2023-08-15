@@ -8,3 +8,4 @@ Traditional domain adaptation techniques often require a significant amount of l
   -  For training model with entities, ```sh scripts/train_GOGA.sh```
   -  For inference, ```sh scripts/inference.sh```
 
+[Report.pdf](https://drive.google.com/file/d/134Quvmf1uyz0Dg5WvoKDBSLWyNAm8rk2/view?usp=sharing) 
